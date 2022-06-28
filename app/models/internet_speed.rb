@@ -1,3 +1,3 @@
 class InternetSpeed < ApplicationRecord
-    belong_to :place
+    belongs_to :place
 end
